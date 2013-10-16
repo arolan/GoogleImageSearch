@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="query_hint">Enter Search Term</string>
+    <string name="title_activity_image_display">Google Image Searcher</string>
+    <string name="title_activity_search_settings">Google Image Searcher</string>
+    <string name="title_advanced_search_options">Advanced search options</string>
+    <string name="image_sizes_desc">Image Size</string>
+    <string name="color_filters_desc">Color Filter</string>
+    <string name="image_types_desc">Image Type</string>
+    <string name="activity_search_settings_save_btn">Save</string>
+    <string name="site_filter_title">Site Filter</string>
+</resources>
