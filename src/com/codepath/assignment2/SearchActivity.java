@@ -83,7 +83,7 @@ public class SearchActivity extends Activity {
 		Toast.makeText(this, "Searching for " + query, Toast.LENGTH_SHORT).show();
 		AsyncHttpClient client = new AsyncHttpClient();
 		String urlRequestStr = "https://ajax.googleapis.com/ajax/services/search/images?rsz=8" +
-		"&start=" + page + 
+		"&start=" + page*8 + 
 		"&imgsz=" + this.imageSize + 
 		"&imgcolor=" + this.colorFilter +
 		"&imgtype=" + this.imageType +
